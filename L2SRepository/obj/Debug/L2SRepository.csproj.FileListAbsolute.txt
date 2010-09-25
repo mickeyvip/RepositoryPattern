@@ -1,0 +1,11 @@
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\NoteworthyDB.mdf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\NoteworthyDB_log.ldf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\L2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\L2SRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\IL2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\bin\Debug\IL2SRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\obj\Debug\L2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\L2SRepository\obj\Debug\L2SRepository.pdb

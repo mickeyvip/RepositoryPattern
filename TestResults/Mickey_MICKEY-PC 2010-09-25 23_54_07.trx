@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b0c3f323-c997-4ffe-8704-2296fc542193" name="Mickey@MICKEY-PC 2010-09-25 23:54:07" runUser="Mickey-PC\Mickey" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8ea4bd18-7e7f-4bb9-b0f1-9882d8aa3ba2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Mickey_MICKEY-PC 2010-09-25 23_54_07">
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\Data.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\IEFRepository\bin\Debug\IEFRepository.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\DataServices.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\MemoryEFRepository.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-25T23:54:07.0761718+02:00" queuing="2010-09-25T23:54:07.4765625+02:00" start="2010-09-25T23:54:07.5078125+02:00" finish="2010-09-25T23:54:07.9072265+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MemoryQueryReturnsArticles" storage="g:\programming\projects\visual studio 2010\repositorypattern\repository.tests\bin\debug\repository.tests.dll" id="235ff5ea-5a50-f3b5-867b-3a60eaa310cd">
+      <Execution id="dd1da1cd-3314-4bb9-b2bd-ee9fee334a8a" />
+      <TestMethod codeBase="G:/Programming/Projects/Visual Studio 2010/RepositoryPattern/Repository.Tests/bin/Debug/Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Repository.Tests.EFMemoryTest, Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MemoryQueryReturnsArticles" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="235ff5ea-5a50-f3b5-867b-3a60eaa310cd" executionId="dd1da1cd-3314-4bb9-b2bd-ee9fee334a8a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dd1da1cd-3314-4bb9-b2bd-ee9fee334a8a" testId="235ff5ea-5a50-f3b5-867b-3a60eaa310cd" testName="MemoryQueryReturnsArticles" computerName="MICKEY-PC" duration="00:00:00.0424059" startTime="2010-09-25T23:54:07.5156250+02:00" endTime="2010-09-25T23:54:07.8916015+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd1da1cd-3314-4bb9-b2bd-ee9fee334a8a">
+    </UnitTestResult>
+  </Results>
+</TestRun>

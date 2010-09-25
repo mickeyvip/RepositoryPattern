@@ -1,0 +1,11 @@
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\NoteworthyDB.mdf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\NoteworthyDB_log.ldf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\EFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\EFRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\IEFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\bin\Debug\IEFRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\obj\Debug\EFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\EFRepository\obj\Debug\EFRepository.pdb

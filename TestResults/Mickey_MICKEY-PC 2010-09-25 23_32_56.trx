@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0be8dd1a-4468-4c7f-82e2-22cb9abe122f" name="Mickey@MICKEY-PC 2010-09-25 23:32:56" runUser="Mickey-PC\Mickey" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8ea4bd18-7e7f-4bb9-b0f1-9882d8aa3ba2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Mickey_MICKEY-PC 2010-09-25 23_32_56">
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\Data.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\IEFRepository\bin\Debug\IEFRepository.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\DataServices.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-25T23:32:56.4765625+02:00" queuing="2010-09-25T23:32:56.4882812+02:00" start="2010-09-25T23:32:56.4931640+02:00" finish="2010-09-25T23:32:56.7197265+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MemoryQueryReturnsArticles" storage="g:\programming\projects\visual studio 2010\repositorypattern\repository.tests\bin\debug\repository.tests.dll" id="235ff5ea-5a50-f3b5-867b-3a60eaa310cd">
+      <Execution id="d294de7b-9a88-42e0-a2be-3d024116b84a" />
+      <TestMethod codeBase="G:/Programming/Projects/Visual Studio 2010/RepositoryPattern/Repository.Tests/bin/Debug/Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Repository.Tests.EFMemoryTest, Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MemoryQueryReturnsArticles" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="235ff5ea-5a50-f3b5-867b-3a60eaa310cd" executionId="d294de7b-9a88-42e0-a2be-3d024116b84a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="d294de7b-9a88-42e0-a2be-3d024116b84a" testId="235ff5ea-5a50-f3b5-867b-3a60eaa310cd" testName="MemoryQueryReturnsArticles" computerName="MICKEY-PC" duration="00:00:00.0246924" startTime="2010-09-25T23:32:56.4941406+02:00" endTime="2010-09-25T23:32:56.7080078+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d294de7b-9a88-42e0-a2be-3d024116b84a">
+      <Output>
+        <ErrorInfo>
+          <Message>Initialization method Repository.Tests.EFMemoryTest.MyTestInitialize threw exception. System.NullReferenceException: System.NullReferenceException: Object reference not set to an instance of an object..</Message>
+          <StackTrace>    at Repository.Tests.EFMemoryTest.InitArticleMemoryRepository() in G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Repository.Tests\EFMemoryTest.cs:line 26
+   at Repository.Tests.EFMemoryTest.MyTestInitialize() in G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Repository.Tests\EFMemoryTest.cs:line 74
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

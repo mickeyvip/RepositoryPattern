@@ -1,0 +1,11 @@
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\NoteworthyDB.mdf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\NoteworthyDB_log.ldf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\MemoryL2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\MemoryL2SRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\IL2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\IL2SRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\obj\Debug\MemoryL2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\obj\Debug\MemoryL2SRepository.pdb

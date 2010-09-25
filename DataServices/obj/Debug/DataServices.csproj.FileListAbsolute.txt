@@ -1,0 +1,13 @@
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\DataServices.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\DataServices.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\IEFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\IEFRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\obj\Debug\DataServices.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\obj\Debug\DataServices.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\NoteworthyDB.mdf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\NoteworthyDB_log.ldf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\IL2SRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\IL2SRepository.pdb

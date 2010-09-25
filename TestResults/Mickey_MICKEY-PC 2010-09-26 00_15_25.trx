@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="64e6a0ba-1bae-4f77-978f-f772f324dbe5" name="Mickey@MICKEY-PC 2010-09-26 00:15:25" runUser="Mickey-PC\Mickey" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="8ea4bd18-7e7f-4bb9-b0f1-9882d8aa3ba2">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Mickey_MICKEY-PC 2010-09-26 00_15_25">
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\IL2SRepository\bin\Debug\IL2SRepository.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\MemoryEFRepository.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\Data.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\DataServices\bin\Debug\DataServices.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\IEFRepository\bin\Debug\IEFRepository.dll" />
+      <DeploymentItem filename="G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryL2SRepository\bin\Debug\MemoryL2SRepository.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-26T00:15:25.9580078+02:00" queuing="2010-09-26T00:15:27.3066406+02:00" start="2010-09-26T00:15:27.4960937+02:00" finish="2010-09-26T00:17:10.7597656+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="MemoryQueryReturnsArticles" storage="g:\programming\projects\visual studio 2010\repositorypattern\repository.tests\bin\debug\repository.tests.dll" id="00b9b3c9-2449-633f-cc25-6e6cd7c8db81">
+      <Execution id="68a7e505-9f32-4612-b818-23b1f78d4b07" />
+      <TestMethod codeBase="G:/Programming/Projects/Visual Studio 2010/RepositoryPattern/Repository.Tests/bin/Debug/Repository.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Repository.Tests.L2SMemoryTest, Repository.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MemoryQueryReturnsArticles" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="00b9b3c9-2449-633f-cc25-6e6cd7c8db81" executionId="68a7e505-9f32-4612-b818-23b1f78d4b07" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="68a7e505-9f32-4612-b818-23b1f78d4b07" testId="00b9b3c9-2449-633f-cc25-6e6cd7c8db81" testName="MemoryQueryReturnsArticles" computerName="MICKEY-PC" duration="00:01:41.3135229" startTime="2010-09-26T00:15:27.6601562+02:00" endTime="2010-09-26T00:17:10.6875000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68a7e505-9f32-4612-b818-23b1f78d4b07">
+    </UnitTestResult>
+  </Results>
+</TestRun>

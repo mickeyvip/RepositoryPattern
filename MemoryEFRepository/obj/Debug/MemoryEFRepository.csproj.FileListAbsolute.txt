@@ -1,0 +1,11 @@
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\MemoryEFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\MemoryEFRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\IEFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\IEFRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\obj\Debug\MemoryEFRepository.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\obj\Debug\MemoryEFRepository.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\NoteworthyDB.mdf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\MemoryEFRepository\bin\Debug\NoteworthyDB_log.ldf

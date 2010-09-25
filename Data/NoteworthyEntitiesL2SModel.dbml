@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="NoteworthyDB" EntityNamespace="NoteworthyL2SModel" Class="NoteworthyL2SEntities" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\NoteworthyDB.mdf;Integrated Security=True;User Instance=True" SettingsObjectName="Data.Properties.Settings" SettingsPropertyName="NoteworthyDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ArticlesTopics" Member="ArticlesTopics">
+    <Type Name="ArticlesTopic">
+      <Column Name="ArticleId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TopicId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Topic_ArticlesTopic" Member="Topic" ThisKey="TopicId" OtherKey="Id" Type="Topic" IsForeignKey="true" />
+      <Association Name="Article_ArticlesTopic" Member="Article" ThisKey="ArticleId" OtherKey="Id" Type="Article" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Topics" Member="Topics">
+    <Type Name="Topic">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TopicName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Topic_ArticlesTopic" Member="ArticlesTopics" ThisKey="Id" OtherKey="TopicId" Type="ArticlesTopic" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Articles" Member="Articles">
+    <Type Name="Article">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Article_ArticlesTopic" Member="ArticlesTopics" ThisKey="Id" OtherKey="ArticleId" Type="ArticlesTopic" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="NoteworthyEntitiesL2SModel">
+  <DataContextMoniker Name="/NoteworthyL2SEntities" />
+  <nestedChildShapes>
+    <classShape Id="7707dea1-9121-4b7d-8de0-62c20bd3ec19" absoluteBounds="4.375, 1.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/NoteworthyL2SEntities/ArticlesTopic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a957eb1-64cf-4d06-85b6-f1fc75576a95" absoluteBounds="4.39, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="42303141-78e1-439c-a749-c2d1a3363bf7" absoluteBounds="7.125, 1.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/NoteworthyL2SEntities/Topic" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0104945f-7fa6-4ab6-be07-18ac45088b18" absoluteBounds="7.1400000000000006, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.125 : 2.09699625651042); (6.375 : 2.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NoteworthyL2SEntities/Topic/Topic_ArticlesTopic" />
+      <nodes>
+        <classShapeMoniker Id="42303141-78e1-439c-a749-c2d1a3363bf7" />
+        <classShapeMoniker Id="7707dea1-9121-4b7d-8de0-62c20bd3ec19" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="96834bba-e539-4429-b539-837010bed9d7" absoluteBounds="1.75, 1.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/NoteworthyL2SEntities/Article" />
+      <nestedChildShapes>
+        <elementListCompartment Id="11cb82b4-1615-4c36-b620-c2be045b5e49" absoluteBounds="1.7650000000000001, 1.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.75 : 2.09699625651042); (4.375 : 2.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NoteworthyL2SEntities/Article/Article_ArticlesTopic" />
+      <nodes>
+        <classShapeMoniker Id="96834bba-e539-4429-b539-837010bed9d7" />
+        <classShapeMoniker Id="7707dea1-9121-4b7d-8de0-62c20bd3ec19" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

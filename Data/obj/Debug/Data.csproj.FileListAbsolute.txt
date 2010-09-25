@@ -1,0 +1,8 @@
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\Data.dll.config
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\obj\Debug\Data.dll
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\obj\Debug\Data.pdb
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\NoteworthyDB.mdf
+G:\Programming\Projects\Visual Studio 2010\RepositoryPattern\Data\bin\Debug\NoteworthyDB_log.ldf
