@@ -1,0 +1,5 @@
+Repository Pattern is exploring the... Repository Pattern in C# for Entity Framework, LINQ-To-SQL and... maybe others.
+
+The Entity Framework implementation is taken from Michael L Perry's http://adventuresinsoftware.com/blog/?p=550
+
+The LINQ-to-SQL implementation is a very close adaptation of Michael L Perry' code.
